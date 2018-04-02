@@ -1,0 +1,7 @@
+name: Skywars
+version: ${project.version}
+main: speeddev.info.skywars.Skywars
+authors: [SpeedDev]
+commands:
+  skywars:
+    aliases: [skyw, sw]
